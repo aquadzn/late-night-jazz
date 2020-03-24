@@ -1,24 +1,7 @@
-# late-night-jazz
+The goal of this project is to create a website like rainymood.com but for jazz with noir vibes by using Python with VueJS
 
-## Project setup
-```
-npm install
-```
+Background inspiration:
+* https://www.youtube.com/watch?v=WDippeD3pj8
+* https://www.youtube.com/watch?v=b9n97S0pGqc
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Maybe do some animation with normal image to make it like 3D?
